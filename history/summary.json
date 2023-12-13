@@ -22,9 +22,9 @@
     "url": "https://analytics.marnick.dev",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.marnick.dev.ico",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 724,
     "timeMonth": 809,
     "timeYear": 809,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-13": 0
+    }
   },
   {
     "name": "NHL Stenden roosters",
