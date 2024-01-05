@@ -22,11 +22,11 @@
     "url": "https://analytics.marnick.dev",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.marnick.dev.ico",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 759,
     "timeDay": 625,
@@ -34,6 +34,7 @@
     "timeMonth": 727,
     "timeYear": 759,
     "dailyMinutesDown": {
+      "2024-01-05": 1,
       "2023-12-13": 15
     }
   },
@@ -42,10 +43,10 @@
     "url": "https://nhlstendenroosters.nl",
     "icon": "https://icons.duckduckgo.com/ip3/nhlstendenroosters.nl.ico",
     "slug": "nhl-stenden-roosters",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 745,
@@ -53,7 +54,9 @@
     "timeWeek": 658,
     "timeMonth": 659,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 1
+    }
   },
   {
     "name": "Typensneek",
@@ -78,9 +81,9 @@
     "url": "https://smederijsieses.nl",
     "icon": "https://icons.duckduckgo.com/ip3/smederijsieses.nl.ico",
     "slug": "smederij-sieses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +92,18 @@
     "timeWeek": 1227,
     "timeMonth": 1244,
     "timeYear": 1316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   },
   {
     "name": "Yn 'e Mar",
     "url": "https://ynemar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ynemar.nl.ico",
     "slug": "yn-e-mar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +112,8 @@
     "timeWeek": 654,
     "timeMonth": 685,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-05": 0
+    }
   }
 ]
