@@ -60,18 +60,20 @@
     "url": "https://typensneek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/typensneek.nl.ico",
     "slug": "typensneek",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1263,
-    "timeDay": 1027,
-    "timeWeek": 1261,
-    "timeMonth": 1241,
-    "timeYear": 1263,
-    "dailyMinutesDown": {}
+    "time": 1253,
+    "timeDay": 909,
+    "timeWeek": 1203,
+    "timeMonth": 1227,
+    "timeYear": 1253,
+    "dailyMinutesDown": {
+      "2024-01-14": 0
+    }
   },
   {
     "name": "Smederij Sieses",
