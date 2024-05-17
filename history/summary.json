@@ -60,9 +60,9 @@
     "url": "https://typensneek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/typensneek.nl.ico",
     "slug": "typensneek",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -72,6 +72,7 @@
     "timeMonth": 1532,
     "timeYear": 1591,
     "dailyMinutesDown": {
+      "2024-05-17": 0,
       "2024-03-04": 75,
       "2024-01-14": 27
     }
