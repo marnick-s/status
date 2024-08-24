@@ -100,19 +100,19 @@
     "url": "https://ynemar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ynemar.nl.ico",
     "slug": "yn-e-mar",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "94.92%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
-    "time": 726,
-    "timeDay": 3587,
-    "timeWeek": 1811,
-    "timeMonth": 993,
-    "timeYear": 726,
+    "time": 757,
+    "timeDay": 4696,
+    "timeWeek": 2476,
+    "timeMonth": 1232,
+    "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-08-24": 61
+      "2024-08-24": 74
     }
   }
 ]
