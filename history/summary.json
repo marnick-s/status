@@ -42,19 +42,19 @@
     "url": "https://nhlstendenroosters.nl",
     "icon": "https://icons.duckduckgo.com/ip3/nhlstendenroosters.nl.ico",
     "slug": "nhl-stenden-roosters",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 476,
-    "timeWeek": 636,
-    "timeMonth": 667,
-    "timeYear": 680,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 679,
+    "timeDay": 449,
+    "timeWeek": 609,
+    "timeMonth": 658,
+    "timeYear": 679,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 26
     }
   },
   {
