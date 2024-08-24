@@ -42,10 +42,10 @@
     "url": "https://nhlstendenroosters.nl",
     "icon": "https://icons.duckduckgo.com/ip3/nhlstendenroosters.nl.ico",
     "slug": "nhl-stenden-roosters",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 681,
@@ -53,7 +53,9 @@
     "timeWeek": 672,
     "timeMonth": 676,
     "timeYear": 681,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
   },
   {
     "name": "Typensneek",
@@ -100,11 +102,11 @@
     "url": "https://ynemar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ynemar.nl.ico",
     "slug": "yn-e-mar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.92%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 757,
     "timeDay": 4696,
@@ -112,7 +114,7 @@
     "timeMonth": 1232,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2024-08-24": 74
+      "2024-08-24": 61
     }
   }
 ]
