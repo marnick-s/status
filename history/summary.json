@@ -44,9 +44,9 @@
     "slug": "nhl-stenden-roosters",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "78.48%",
-    "uptimeWeek": "96.93%",
-    "uptimeMonth": "99.29%",
+    "uptimeDay": "79.36%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "99.32%",
     "uptimeYear": "99.92%",
     "time": 799,
     "timeDay": 3054,
@@ -54,7 +54,7 @@
     "timeMonth": 1455,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2024-08-25": 267,
+      "2024-08-25": 254,
       "2024-08-24": 44
     }
   },
@@ -103,19 +103,19 @@
     "url": "https://ynemar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ynemar.nl.ico",
     "slug": "yn-e-mar",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "77.63%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.92%",
-    "time": 907,
-    "timeDay": 4214,
-    "timeWeek": 3324,
-    "timeMonth": 2015,
-    "timeYear": 907,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "74.58%",
+    "uptimeWeek": "96.37%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.91%",
+    "time": 905,
+    "timeDay": 4017,
+    "timeWeek": 3211,
+    "timeMonth": 1983,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2024-08-25": 238,
+      "2024-08-25": 282,
       "2024-08-24": 84
     }
   }
