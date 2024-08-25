@@ -42,9 +42,9 @@
     "url": "https://nhlstendenroosters.nl",
     "icon": "https://icons.duckduckgo.com/ip3/nhlstendenroosters.nl.ico",
     "slug": "nhl-stenden-roosters",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "81.83%",
+    "uptimeDay": "81.78%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.93%",
@@ -54,7 +54,7 @@
     "timeMonth": 1310,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2024-08-25": 218,
+      "2024-08-25": 219,
       "2024-08-24": 44
     }
   },
@@ -103,19 +103,19 @@
     "url": "https://ynemar.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ynemar.nl.ico",
     "slug": "yn-e-mar",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "83.02%",
-    "uptimeWeek": "97.57%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.94%",
-    "time": 855,
-    "timeDay": 3901,
-    "timeWeek": 2974,
-    "timeMonth": 1759,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "81.34%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.93%",
+    "time": 877,
+    "timeDay": 4099,
+    "timeWeek": 3160,
+    "timeMonth": 1876,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2024-08-25": 160,
+      "2024-08-25": 185,
       "2024-08-24": 84
     }
   }
