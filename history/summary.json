@@ -61,10 +61,10 @@
     "url": "https://typensneek.nl",
     "icon": "https://icons.duckduckgo.com/ip3/typensneek.nl.ico",
     "slug": "typensneek",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1676,
@@ -73,6 +73,7 @@
     "timeMonth": 1518,
     "timeYear": 1728,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-05-17": 19,
       "2024-03-04": 75
     }
@@ -82,9 +83,9 @@
     "url": "https://smederijsieses.nl",
     "icon": "https://icons.duckduckgo.com/ip3/smederijsieses.nl.ico",
     "slug": "smederij-sieses",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +94,9 @@
     "timeWeek": 1078,
     "timeMonth": 1204,
     "timeYear": 1392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Yn 'e Mar",
